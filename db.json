@@ -1,0 +1,16 @@
+{
+  "employees": [
+    {
+      "name": "adfadf",
+      "dob": "123456543",
+      "gender": "Male",
+      "education": "asdfghj",
+      "department": "dafsgd",
+      "email": "asd@gmail.com",
+      "mobileNo": "11234523434",
+      "address": "sdfgs",
+      "id": 1659253341055
+    }
+  ]
+
+}
